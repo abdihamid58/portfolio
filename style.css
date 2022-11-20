@@ -29,3 +29,23 @@ nav{
     color:goldenrod;
     transition: .6s;
   }
+  span{
+    color:indigo;
+  }
+  .about{
+    width: 70%;
+    background-color: black;
+  }
+  .about-text{
+width: 400px;
+}
+.maina{
+    align-items: center;
+    justify-content: space-between;
+}
+.about-text h2{
+    color: black;
+    text-transform: capitalize;
+    font-style: italic;
+    font-size: large;
+}
